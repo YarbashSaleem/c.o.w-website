@@ -1,5 +1,7 @@
 # CONTENT
+
 javascript files
 
-# LISTING
+## LISTING
+
 - main.js- part of index.html's main js code
